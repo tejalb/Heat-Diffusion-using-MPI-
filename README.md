@@ -18,7 +18,7 @@ implementations:
 • Serial: For the serial version, use heat_serial that runs
 with command line options ./heat_serial {nx} for a solution with grid
 size nx^2
-.
+
 • OpenMP: Parallel version heat_omp that
 runs with command line options ./heat_omp {nx} {nthreads}. 
 
